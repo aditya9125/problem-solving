@@ -1,0 +1,12 @@
+{
+  "name": "problem-solving",
+  "version": "1.0.0",
+  "description": "contains solution to competitive problem solving",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./leetcode/bestTimeToBuyAndSellStock_2.js",
+    "test": "test"
+  },
+  "author": "prataps",
+  "license": "ISC"
+}
