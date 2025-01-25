@@ -4,7 +4,7 @@
   "description": "contains solution to competitive problem solving",
   "main": "index.js",
   "scripts": {
-    "dev": "node ./leetcode/bestTimeToBuyAndSellStock_2.js",
+    "dev": "node ./adhoc/removeDuplicatesFromAString.js",
     "test": "test"
   },
   "author": "prataps",
