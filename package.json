@@ -4,7 +4,7 @@
   "description": "contains solution to competitive problem solving",
   "main": "index.js",
   "scripts": {
-    "dev": "node ./adhoc/removeDuplicatesFromAString.js",
+    "dev": "node ./leetcode/valid_parenthesis_2.js",
     "test": "test"
   },
   "author": "prataps",
