@@ -4,7 +4,7 @@
   "description": "contains solution to competitive problem solving",
   "main": "index.js",
   "scripts": {
-    "dev": "node ./leetcode/valid_parenthesis_2.js",
+    "dev": "node ./$npm_config_file/",
     "test": "test"
   },
   "author": "prataps",
